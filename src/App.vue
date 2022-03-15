@@ -6,6 +6,7 @@
       <router-link to="/cards">Cards</router-link>
     </nav>
     <router-view/>
+    <div class = 'footer paragraph'><a href='https://github.com/dstone42/crypto'>Github link</a></div>
   </div>
 </template>
 
